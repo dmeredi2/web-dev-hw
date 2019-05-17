@@ -1,0 +1,30 @@
+My Responses:
+
+6.Briefly describe one way how data travels on the internet.
+Data traveling through the internet is a very complex system. The internet transfers binary information. Information is made up of bits which is essentially any pair of opposites. In the video presented to the class, the presenter used the idea of turning a lightbulb on and off. When discussing bits, the numbers one and zero are used. One being turned on and 0 implying the device is shut off. A bit is also called a binary code. 8 bits combine is 1 byte, 1024 bytes strung together equals one kilobyte, 1024 kilobytes strung together is a megabyte, one song typically include about 3-4 megabytes. The correlation of bytes to the internet is, they are the atoms of information. Bytes/ information/ data are transferred by electricity, light and radio waves.
+To break it down I will start with electricity.
+Ex: two lightbulbs connected by a copper wire. If one individual turns on the electricity, both lightbulbs will light up, whereas if you turn off the electricity, no light will be transmitted. Seems quite simple, but it gets more complex. If both operators agree that light off means 0 and light on means 1, then there is a way in which these two individuals can communicate the number of bits being sent. When it comes to sending multiple numbers in a row, one must incorporate a clock, allowing the receiver to count the number of 0’s or 1’s that are being sent back and forth.
+(Ex: sending 1 bit per second, and receiver records every second, etc.)
+To speed up the rate of transmission, the bandwidth (which is measured by bit rate) must be increased. The bandwidth is the maximum transmission capacity of a device. The bit rate is the number of bits that can be sent over a given period of time (seconds). The latency is the amount of time it takes for one bit to travel from one place to another, this number can differ from device to device (source to requesting device).
+Signals are sent through wires. Ethernet wires are typically used within a home, but signal loss typically occurs throughout the first couple hundred feet.
+Bits can be sent through light beams using a fiberoptic cable, which is a thread of glass engineered to reflect light. When a beam of light is sent through the cable, the light bounces up and down the cable until it is received at the other end. If the “bounce angle” is increased, multiple bits can be sent at the same time, increasing the speed of transmission. Copper cables are also used.
+Things are sent wirelessly through radio signals. The machines must translate the 1’s. and 0’s into radio frequencies. When the signal is received, the machine reverses the process, and reverts it back to binary. Radio signals cannot travel too far before they become lost.
+When using Wi-Fi- information is sent to a wireless router and that information is then sent through a physical wire traveling through an extensive route to allow us to use the internet.
+ALL INFORMATION TRAVELS THROUGH THE INTERNET VIA ELECTRICITY, LIGHT AND RADIOWAVES.
+The concept of packets is incredible as well, as stated in my assignment one reflection. Routers are responsible for multiple paths for sending packets, choosing the best and cheapest route for each signal to be sent, keeping in mind that things may go wrong throughout its commute.
+
+7.What is the relationship between an IP address and the DNS?
+The internet is a source where information is constantly being sent back and forth from one place to another, linking billions of devices throughout the world. An address on the internet is equivalent to a number that is unique to each device. IP stands for internet protocol, and each specific computer has an IP address. When visiting a website, your computer is asking for permission to grab information from another computer. The sending computer sends a message to a different device’s IP address, and its origin address, to make it easy for the receiving computer to know where to send the requested information back to. IP addressed are organized in a hierarchy, and are organized in bits, each address is typically 32 bits long (8 bits per each part of the address).
+DNS stands for the domain name system, this associates a name with a corresponding addresses. One’s computer uses the DNS to look up domain names and get the associated IP address, which is used to direct the information from each device.  There are TONS of DNS servers that all work together.
+DNS spoofing- when a hacker taps into a DNS server, and changes it to match a domain name with the wrong IP address, and the attacker leads the imposter to fake website.
+IP AND DNS ARE DESIGNED TO SCALE NO MATTER HOW LARGE THE INTERNET GROWS.
+
+8.What is a cookie?
+A cookie is, what a website used to remember who you are. When one logs into a website, they are making a post request. This is a post that goes to that specific websites login page that has some personal data attached to it (ex: email address, username, password, etc.). This info is sent to the server. The server then acknowledges what is being sent to it and sends a post request back to the requesting computer. When it sends the webpage back, it also sends back cookies, and your computer saves it. A cookie is an ID card.
+(Ex: a number that identifies me as DEMI. The web browser holds onto the number so that the next time I  go to the website it correlates the ID number with the request, and knows it is me, DEMI).
+
+9.List the three basic parts of a URL.
+URL stands for Uniform resource locator and is assigned to every website to that users and servers can find the site quick and easy.
+1-Protocol (states how the web browser will communicate with the web server- where your files live on the web) Ex: HTTP://
+2-Domain
+3- Path (instructions on how to navigate directories) and File
