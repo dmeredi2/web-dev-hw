@@ -1,71 +1,56 @@
-
-#parent { 
-  position: relative;
-  width: 500px; 
-  background-color: #fafafa; 
-  border: solid 3px #ff7347; 
-  font-size: 24px; 
-  text-align: center; 
-} 
-
-
-#child{ 
-  position: relative; 
-  left: 150px; 
-  top: 10px; 
-  width: 500px; 
-  background-color: yellow; 
-  border: solid 3px #ff7347; 
-  font-size: 24px; 
-  text-align: center;
-  opacity:0.6; 
+/*This is a CSS page devoted to the 1960's: */
+#bodystyle{
+  background-color:purple;
+  text-align:left;
+  }
+#parent{
+  position:relative;
+  width:500px;
+  background-color:#fafafa;
+  border:solid 3px #ff7347;
+  font-size:24px;
+  text-align:center;
 }
-	.box:hover
-	{
-	opacity:0.6; 
+#child{
+  position:relative;
+  left:150px;
+  top:10px;
+  width:500px;
+  background-color:yellow;
+  border:solid 3px #ff7347;
+  font-size:24px;
+  text-align:center;
+  opacity:0.6;
 }
-
-
-p.center {
-  text-align: center;
-  color: red;
+	.box:hover{
+	opacity:0.6;
 }
-
-p.large {
-  font-size: 300%;
+p.center{
+  text-align:center;
+  color:red;
 }
-
-
-	p { 
-  		display: inline;
-		color: red;
-	}
-
-	p.c1{ 
-  		color: blue;
-	}
-
-	p.c2{ 
-  		color: yellow;
-	}
-
-	p.c3{ 
-  		color: green;
-	}
-
-	p.c4{ 
-  		color: blue;
-	}
-
-	p.c5{ 
-  		color: orange;
-	}
-
-	p.c6{ 
-  		color: purple;
-	}
-
-
-
-
-
+p.large{
+  font-size:300%;
+}
+p{
+  display:inline;
+	color:red;
+}
+p.c1{
+  color:blue;
+}
+p.c2{
+  color:yellow;
+}
+p.c3{
+  color:green;
+}
+p.c4{
+  color:blue;
+}
+p.c5{
+  color:orange;
+}
+p.c6{
+  color:purple;
+}
