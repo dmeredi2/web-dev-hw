@@ -4,11 +4,11 @@
     background: tan;
     margin: auto;
     padding: 15px;
-	border-radius: 25px;
-	border-style: dotted;
-	border-width: 5px;
-	position: static;
-	opacity: 0.75;
+	  border-radius: 25px;
+	  border-style: dotted;
+	  border-width: 5px;
+	  position: static;
+	  opacity: 0.75;
 }
 
 .one {
@@ -16,8 +16,8 @@
     height: 200px;
     background: yellow;
     float: left;
-	border-bottom-left-radius: 25px;
-	border-top-left-radius: 25px;
+	  border-bottom-left-radius: 25px;
+	  border-top-left-radius: 25px;
 }
 .two{
     float: left;
@@ -30,58 +30,56 @@
     height: 50px;
     background: blue;
     width: 52%;
-	border-bottom-right-radius: 25px;
+	  border-bottom-right-radius: 25px;
 }
 .three{
     height: 150px;
     background: white;
     width: 52%;
     float: left;
-	border-top-right-radius: 25px;
+	  border-top-right-radius: 25px;
 }
 .four{
     height: 150px;
     background: red;
     width:70%;
     float: right;
-	border-top-right-radius: 25px;
+  	border-top-right-radius: 25px;
 }
 .six{
-	padding: 15px;
-	text-align: center;
+  	padding: 15px;
+	  text-align: center;
 }
 
 .seven{
-	position: absolute;
-    display: block;
-	top:40px;
-	left:125px;
-	z-index: -1;
+	 position: absolute;
+   display: block;
+	 top:40px;
+	 left:125px;
+	 z-index: -1;
  }
 
 .eight{
-	position: relative;
-	border-radius: 50%;
-	top: 50px;
-	right: 10px;
-	margin: 35px 70px;
+	 position: relative;
+	 border-radius: 50%;
+	 top: 50px;
+	 right: 10px;
+	 margin: 35px 70px;
 }
 
 #imgpad{
-	display: block;
-	border-radius: 50%;
-	width: 290px;
-	height: 190px;
+	 display: block;
+	 border-radius: 50%;
+	 width: 290px;
+	 height: 190px;
 }
 
 li.inlinebuttons{
-  display: inline-block;
+   display: inline-block;
 }
 
 li a {
-  display: inline-block;
-  padding: 5px;
-  background: tan;
+   display: inline-block;
+   padding: 5px;
+   background: tan;
 }
-
-
