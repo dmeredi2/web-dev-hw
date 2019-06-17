@@ -6,7 +6,7 @@
 
 [My Responses](./responses.txt)
 
-![My Screenshot](./images/assignment_2_screenshot.png)
+[My Screenshot](./images/assignment_2_screenshot.png)
 
 # Assignment 2
 ## Demi Meredith
