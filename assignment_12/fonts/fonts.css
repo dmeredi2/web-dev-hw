@@ -1,0 +1,69 @@
+@font-face {
+   font-family: 'Bellerose';
+   src: url('../fonts/NoticiaText-BoldItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'CODE_Light';
+   src: url('../fonts/Pacifico-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'NoticiaText-BoldItalic';
+   src: url('../fonts/NoticiaText-BoldItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Pacifico-Regular';
+   src: url('../fonts/Pacifico-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'DancingScript-Bold';
+   src: url('../fonts/DancingScript-Bold.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'DancingScript-Regular';
+   src: url('../fonts/DancingScript-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Lobster-Regular';
+   src: url('../fonts/Lobster-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'CormorantGaramond-SemiBoldItalic';
+   src: url('../fonts/CormorantGaramond-SemiBoldItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'CormorantGaramond-LightItalic';
+   src: url('../fonts/CormorantGaramond-LightItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'FiraSans-BoldItalic';
+   src: url('../fonts/FiraSans-BoldItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
