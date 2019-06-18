@@ -2,7 +2,6 @@
   overflow: hidden;
   background-color: #d4006a;
 }
-
 .navbar a {
   float: left;
   font-size: 16px;
@@ -11,21 +10,17 @@
   padding: 14px 16px;
   text-decoration: none;
 }
-
 .active {
   background-color: purple;
   color: #fb007e;
 }
-
 .centerimage {
   text-align: center;
 }
-
 .dropdown {
   float: left;
   overflow: hidden;
 }
-
 .dropdown .dropbtn {
   font-size: 16px;
   border: none;
@@ -36,11 +31,9 @@
   font-family: inherit;
   margin: 0;
 }
-
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -50,7 +43,6 @@
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
 .dropdown-content a {
   float: none;
   color: black;
@@ -59,18 +51,12 @@
   display: block;
   text-align: left;
 }
-
 .dropdown-content a:hover {
   background-color: #ddd;
 }
-
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-/*body {
-  background-color: lightpink;
-}*/
 p {
   display: block;
   margin-top: 1em;
@@ -79,49 +65,36 @@ p {
   margin-right: 0;
   text-align:center;
 }
-
 #indexpagecolor{
-
   background-color: #cc9af4;
 }
-
 #aboutpagecolor{
-
   background-color: #c2f49a;
 }
-
 #contactpagecolor{
-
   background-color: #f49ac2;
 }
-
 #servicespagecolor{
-
   background-color: #9af4cc;
 }
-
-
 #indexdiv {
   margin: auto;
   width: 50%;
  /* border: 3px solid green;*/
   padding: 10px;
 }
-
 #aboutdiv {
   margin: auto;
   width: 50%;
  /* border: 3px solid green;*/
   padding: 10px;
 }
-
 #servicesdiv {
   margin: auto;
   width: 50%;
  /* border: 3px solid green;*/
   padding: 10px;
 }
-
 #contactdiv {
 	text-align: center;
   margin: auto;
@@ -129,41 +102,30 @@ p {
  /* border: 3px solid green;*/
   padding: 10px;
 }
-
 .contactcontainer {
 text-align: center;
 }
-
 .coolfont1 {
 Font-Family: 'CormorantGaramond-LightItalic', Serif;
 Font-Size: 60px;
 }
-
-
-
 .coolfont2 {
 Font-Family: 'FiraSans-BoldItalic', Sans-Serif;
 Font-Size: 36px;
-
 }
-
 img:hover {
   opacity: 0.5;
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
-*/
 .divcontainer{
 	text-align: center;
-
 }
 .divhover{
 	display: inline-block;
 	width:5%;
 	opacity: 1.0;
   filter: alpha(opacity=50); /* For IE8 and earlier */
-
 }
-
 .divhover:hover {
   opacity: 0.5;
   filter: alpha(opacity=100); /* For IE8 and earlier */
