@@ -1,0 +1,13 @@
+@font-face {
+   font-family: 'CormorantGaramond-LightItalic';
+   src: url('../fonts/CormorantGaramond-LightItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'FiraSans-BoldItalic';
+   src: url('../fonts/FiraSans-BoldItalic.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}

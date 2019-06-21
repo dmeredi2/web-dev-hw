@@ -1,0 +1,175 @@
+/* css for Women on the Fly*/
+.coolfont1 {
+Font-Family: 'CormorantGaramond-LightItalic', Serif;
+Font-Size: 90px;
+}
+
+.coolfont3 {
+Font-Family: 'CormorantGaramond-LightItalic', Serif;
+Font-Size: 24px;
+}
+
+.coolfont2 {
+Font-Family: 'FiraSans-BoldItalic', Sans-Serif;
+Font-Size: 36px;
+}
+
+.coolfont4 {
+Font-Family: 'CormorantGaramond-LightItalic', Serif;
+Font-Size: 45px;
+}
+.coolfont5 {
+Font-Family: 'FiraSans-BoldItalic', Sans-Serif;
+Font-Size: 25px;
+}
+.coolfont6 {
+Font-Family: 'CormorantGaramond-LightItalic', Serif;
+Font-Size: 35px;
+}
+
+.floattop{
+	border: none;
+	margin: none;
+	padding: none;
+}
+.indexdiv {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.divhover{
+	display: inline-block;
+	width:5%;
+	opacity: 1.0;
+}
+
+.divhover:hover {
+  opacity: 0.5;
+}
+
+.divcenter{
+	text-align: center;
+}
+
+.divleft{
+	text-align: left;
+padding-left: 30px;
+}
+
+.divleft2{
+	text-align: left;
+padding-left: 100px;
+}
+
+.dropbtn {
+  background-color: #E6CDFF;
+  color: black;
+  padding: 16px;
+  border: none;
+  width: 250px;
+  cursor: pointer;
+  height: 75px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #E6CDFF;
+  width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #FFCDFF;}
+
+.wrapper {
+  position: relative;
+  min-height: 100%;
+}
+
+#resourcediv {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+#aboutdiv {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+#contactdiv {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+#resourcepagecolor{
+	background-color: #CDFFFF;
+}
+
+#indexpagecolor{
+	background-color: #CDFFFF;
+}
+
+#aboutepagecolor{
+	background-color: #CDFFFF;
+}
+
+#contactpagecolor{
+	background-color: #CDFFFF;
+}
+
+#imgbrowntrout{
+  border-radius: 8px;
+  width: 700px;
+}
+
+#imgdemi{
+  border-radius: 8px;
+  width: 400px;
+}
+
+#imgoldschoolpic{
+  border-radius: 20px;
+  width: 250px;
+}
+
+#nobullet{
+	list-style-type: none;
+}
+
+header{
+	background: url(../images/troutskinbackground.jpg) #00FFFF;
+	height: 75px;
+}
+
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+   width:100%;
+}
+
+li {
+Font-Family: 'FiraSans-BoldItalic', Sans-Serif;
+Font-Size: 25px;		
+}
